@@ -1,0 +1,2 @@
+# 🧮 Error Reference Table
+

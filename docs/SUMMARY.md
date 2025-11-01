@@ -67,18 +67,43 @@
 * [❌ Error Codes](api-reference/error-codes.md)
 * [⏱️ Pagination & Rate Limits](api-reference/pagination-and-rate-limits.md)
 
-## Group 1
+## 💬 Webhooks
 
-* [Page 1](group-1/page-1.md)
+* [📖 Introduction to Webhooks](webhooks/introduction-to-webhooks.md)
+* [⚙️ Configuring Webhooks](webhooks/configuring-webhooks.md)
+* [🔔 Event Types](webhooks/event-types.md)
+* [📦 Payload Format](webhooks/payload-format.md)
+* [✍️ Signature Verification](webhooks/signature-verification.md)
 
-## Group 2
+## 🧩 Integration Guides
 
-* [Page 2](group-2/page-2.md)
+* [🌐 Connecting SDK with Web Apps](integration-guides/connecting-sdk-with-web-apps.md)
+* [🔧 Using SDK in CI/CD](integration-guides/using-sdk-in-ci-cd.md)
+* [🔗 Integration with External APIs](integration-guides/integration-with-external-apis.md)
+* [🧠 Example: Unified Remote Integration](integration-guides/example-unified-remote-integration.md)
 
-## Group 3
+## 🧠 Best Practices
 
-* [Page 3](group-3/page-3.md)
+* [⚡ Performance Tips](best-practices/performance-tips.md)
+* [🗃️ Caching Strategies](best-practices/caching-strategies.md)
+* [🧾 Error Logging](best-practices/error-logging.md)
+* [🔢 Versioning](best-practices/versioning.md)
 
-## Group 4
+## 🧰 Testing & Debugging
 
-* [Page 4](group-4/page-4.md)
+* [🧪 Running Test Scripts](testing-and-debugging/running-test-scripts.md)
+* [❗ Common Issues](testing-and-debugging/common-issues.md)
+* [🕵️ Debugging Techniques](testing-and-debugging/debugging-techniques.md)
+* [🎭 Mocking API Responses](testing-and-debugging/mocking-api-responses.md)
+
+## 🩺 Troubleshooting
+
+* [💭 FAQs](troubleshooting/faqs.md)
+* [🧮 Error Reference Table](troubleshooting/error-reference-table.md)
+* [📞 Support Channels](troubleshooting/support-channels.md)
+
+## 🧾 Release Notes
+
+* [🕒 Changelog](release-notes/changelog.md)
+* [🗑️ Deprecated Features](release-notes/deprecated-features.md)
+* [🔮 Upcoming Enhancements](release-notes/upcoming-enhancements.md)
