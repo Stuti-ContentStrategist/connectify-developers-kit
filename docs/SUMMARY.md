@@ -1,10 +1,10 @@
 # Table of contents
 
-* [Page](README.md)
+## 🏠 Home
 
-## Group 1
-
-* [Pagsssse 1ssssss](group-1/pagsssse-1ssssss.md)
+* [📘 Overview](README.md)
+* [ℹ️ About This SDK](home/about-this-sdk.md)
+* [🆕 Release Highlights](home/release-highlights.md)
 
 ## Group 2
 
