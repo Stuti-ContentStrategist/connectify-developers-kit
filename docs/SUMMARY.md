@@ -24,7 +24,7 @@
 
 ## 🔐 Authentication & Security
 
-* [🧭 Authentication Overview](authentication-and-security/authentication-overview.md)
+* [📘 Overview](authentication-and-security/overview.md)
 * [🔑 OAuth 2.0 Setup](authentication-and-security/oauth-2.0-setup.md)
 * [🔁 Token Management](authentication-and-security/token-management.md)
 * [🛡️ Security Best Practices](authentication-and-security/security-best-practices.md)
