@@ -16,6 +16,7 @@
 
 ## ⚙️ Configuration
 
+* [📘 Overview](configuration/overview.md)
 * [🧱 Environment Setup](configuration/environment-setup.md)
 * [⚡ SDK Initialization](configuration/sdk-initialization.md)
 * [🔐 API Keys & Secrets](configuration/api-keys-and-secrets.md)
