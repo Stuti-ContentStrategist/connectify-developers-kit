@@ -8,6 +8,7 @@
 
 ## 🚀 Getting Started
 
+* [📘 Overview](getting-started/overview.md)
 * [💻 System Requirements](getting-started/system-requirements.md)
 * [🧭 Installation Guide](getting-started/installation-guide.md)
 * [📂 Folder Structure](getting-started/folder-structure.md)
