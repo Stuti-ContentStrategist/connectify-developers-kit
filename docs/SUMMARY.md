@@ -31,6 +31,7 @@
 
 ## 🧱 Core Concepts
 
+* [📘 Overview](core-concepts/overview.md)
 * [🏗️ SDK Architecture](core-concepts/sdk-architecture.md)
 * [🔄 Request–Response Cycle](core-concepts/request-response-cycle.md)
 * [🧬 Data Models](core-concepts/data-models.md)

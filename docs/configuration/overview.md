@@ -13,7 +13,9 @@ Each step ensures that your SDK runs smoothly and securely across different setu
 
 💡 **Tip:** Complete this section before moving to [**Authentication & Security**](broken-reference) to avoid connection or authorization issues.
 
-📚 **Next Steps**
+***
+
+#### 📚 **Next Steps**
 
 👉 [Environment Setup\
 ](environment-setup.md)👉 [SDK Initialization](../java-sdk/sdk-initialization.md)\

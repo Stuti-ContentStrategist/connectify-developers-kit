@@ -26,6 +26,8 @@ This SDK supports:
 
 Each version offers consistent structure, naming conventions, and examples for a unified developer experience.
 
+***
+
 #### 🚀 Next Steps
 
 To get started:

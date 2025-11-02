@@ -13,7 +13,9 @@ By following these steps, you’ll establish a robust and secure connection betw
 
 💡 **Tip:** Always complete your configuration setup before starting this section to avoid credential and token errors.
 
-📚 **Next Steps**
+***
+
+#### 📚 **Next Steps**
 
 👉 [OAuth 2.0 Setup](oauth-2.0-setup.md)\
 👉 [Token Management](token-management.md)\
