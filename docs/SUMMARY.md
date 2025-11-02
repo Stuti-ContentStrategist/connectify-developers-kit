@@ -39,8 +39,9 @@
 
 ## 🐍 Python SDK
 
+* [📘 Overview](python-sdk/overview.md)
 * [📦 Installation (pip)](python-sdk/installation-pip.md)
-* [⚙️ Initialization](python-sdk/initialization.md)
+* [⚙️ SDK Initialization](python-sdk/sdk-initialization.md)
 * [💬 Example API Calls](python-sdk/example-api-calls.md)
 * [⏳ Async Usage](python-sdk/async-usage.md)
 * [🚫 Handling Exceptions](python-sdk/handling-exceptions.md)
