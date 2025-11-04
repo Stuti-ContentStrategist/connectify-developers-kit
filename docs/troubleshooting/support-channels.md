@@ -9,4 +9,6 @@ If you encounter an issue that isn’t resolved by the FAQs or error table, you 
 
 ***
 
-#### 📚 Next Pages
+#### 📚 Next Page
+
+👉 [🧾 Release Notes](broken-reference)

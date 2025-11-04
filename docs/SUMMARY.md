@@ -106,6 +106,7 @@
 
 ## 🧾 Release Notes
 
+* [📘 Overview](release-notes/overview.md)
 * [🕒 Changelog](release-notes/changelog.md)
 * [🗑️ Deprecated Features](release-notes/deprecated-features.md)
 * [🔮 Upcoming Enhancements](release-notes/upcoming-enhancements.md)
