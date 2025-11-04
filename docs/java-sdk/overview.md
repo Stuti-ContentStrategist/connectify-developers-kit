@@ -15,9 +15,9 @@ It provides simple, high-level APIs for authentication, event handling, and devi
 
 Use the Java SDK when you’re:
 
-* Building backend services or automation scripts in Java
-* Integrating Connectify features into enterprise applications
-* Developing plugins or tools that require reliable, long-running background tasks
+* Building **backend services or automation scripts** in Java
+* **Integrating Connectify features** into enterprise applications
+* **Developing plugins or tools** that require reliable, long-running background tasks
 
 ***
 

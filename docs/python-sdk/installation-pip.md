@@ -1,9 +1,8 @@
 # 📦 Installation (pip)
 
-### 📦 Installation (pip)
+You can install the **Connectify Developer’s Kit (CDK) Python SDK** easily using `pip`, the standard Python package manager.
 
-You can install the **Connectify Developer’s Kit (CDK) Python SDK** easily using `pip`, the standard Python package manager.\
-Before installation, ensure that your system meets the System Requirements and that you have Python **3.8 or higher** installed.
+Before installation, ensure that your system meets the [System Requirements](../getting-started/system-requirements.md) and that you have Python **3.8 or higher** installed.
 
 #### ⚙️ Step 1: Verify Python & pip
 
@@ -77,4 +76,4 @@ Once installed, you can start importing the SDK into your Python scripts and ini
 
 #### 📚 **Next Page**
 
-👉 [⚙️ SDK Initialization](../java-sdk/sdk-initialization.md)
+👉 [⚙️ SDK Initialization](sdk-initialization.md)

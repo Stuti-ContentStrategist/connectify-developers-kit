@@ -57,6 +57,6 @@ bash
 
 ***
 
-#### 📚 Next Steps
+#### 📚 Next Page
 
 👉 [✍️ **Signature Verification**](signature-verification.md)

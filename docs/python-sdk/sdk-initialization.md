@@ -75,9 +75,9 @@ client = ConnectifyClient(
 
 #### 💡 Best Practices
 
-* Always store secrets securely (never in version control).
-* Use different environments (`sandbox`, `staging`, `production`) for development and deployment.
-* Log connection errors during initialization for easier debugging.
+* Always **store secrets securely** (never in version control).
+* Use **different environments** (`sandbox`, `staging`, `production`) for development and deployment.
+* **Log connection errors** during initialization for easier debugging.
 
 ***
 

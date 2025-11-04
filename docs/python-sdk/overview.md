@@ -1,16 +1,16 @@
 # 📘 Overview
 
-The **Python SDK** is part of the **Connectify Developer’s Kit (CDK)** and allows developers to integrate Connectify’s features seamlessly into Python-based applications.
+The **Python SDK** is part of the **Connectify Software Development Kit (SDK)** and allows developers to integrate Connectify’s features seamlessly into Python-based applications.
 
 It provides intuitive methods for making API calls, managing authentication, handling devices, and automating workflows — all with minimal setup.
 
 #### ⚙️ Why Use the Python SDK?
 
-* 🧩 Simplifies API communication using native Python methods
-* 🔐 Manages authentication, token handling, and retries automatically
-* ⚡ Supports both synchronous and asynchronous operations
-* 🧱 Provides strong data models for clean, readable code
-* 🧠 Ideal for quick scripting, automation, and backend integration
+* 🧩 **Simplifies API communication** using native Python methods
+* 🔐 **Manages authentication, token handling,** and retries automatically
+* ⚡ **Supports both synchronous and asynchronous** operations
+* 🧱 **Provides strong data models** for clean, readable code
+* 🧠 Ideal for **quick scripting, automation**, and **backend integration**
 
 #### 📦 What You’ll Learn
 
@@ -30,7 +30,7 @@ This section will guide you through:
 #### 📚 **Next Pages**
 
 👉 [📦 Installation (pip)](installation-pip.md)\
-👉 [⚙️ Initialization\
+👉 [⚙️ SDK Initialization\
 ](sdk-initialization.md)👉 [💬 Example API Calls](example-api-calls.md)\
 👉 [⏳ Async Usage](async-usage.md)\
 👉 [🚫 Handling Exceptions](handling-exceptions.md)\

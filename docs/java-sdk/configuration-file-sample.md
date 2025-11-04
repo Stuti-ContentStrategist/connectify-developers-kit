@@ -1,6 +1,6 @@
 # 🧩 Configuration File Sample
 
-The Connectify Java SDK allows you to store your API credentials and environment settings in a configuration file. This helps you separate sensitive data from your codebase and simplifies deployment across environments.
+The **Connectify Java SDK** allows you to store your API credentials and environment settings in a configuration file. This helps you separate sensitive data from your codebase and simplifies deployment across environments.
 
 ***
 

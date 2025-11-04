@@ -12,6 +12,8 @@ pip install connectify-sdk
 Verify installation:
 
 ```bash
+bash
+
 python -m connectify --version
 ```
 
@@ -55,7 +57,7 @@ yarn add connectify-sdk
 
 Import in your code:
 
-<pre class="language-javascript"><code class="lang-javascript"><strong>javascript.
+<pre class="language-javascript"><code class="lang-javascript"><strong>javascript
 </strong>
 import Connectify from "connectify-sdk";
 </code></pre>

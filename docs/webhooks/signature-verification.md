@@ -75,6 +75,6 @@ const verifySignature = (req, secret) => {
 
 ***
 
-#### 📚 Next Steps
+#### 📚 Next Page
 
 👉 [🧪 **Testing Webhooks**](testing-webhooks.md)

@@ -72,10 +72,10 @@ Retries the request up to three times before stopping, allowing temporary networ
 
 #### 💡 Best Practices
 
-* Always catch specific exception types first.
-* Log error details for debugging and support purposes.
-* Avoid exposing sensitive information (like tokens or credentials) in error messages.
-* Use exponential backoff when retrying API calls to avoid rate limiting.
+* Always **catch specific exception** types first.
+* **Log error details** for debugging and support purposes.
+* **Avoid exposing sensitive information** (like tokens or credentials) in error messages.
+* Use **exponential backoff** when retrying API calls to avoid rate limiting.
 
 ***
 

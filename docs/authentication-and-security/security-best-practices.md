@@ -1,6 +1,6 @@
 # 🛡️ Security Best Practices
 
-Security is at the heart of every Connectify integration. The Connectify Developer’s Kit (CDK) follows strict authentication, encryption, and access control measures to protect your data and connected devices.
+Security is at the heart of every Connectify integration. The **Connectify Software Development Kit (SDK)** follows strict authentication, encryption, and access control measures to protect your data and connected devices.
 
 This section outlines the key best practices every developer should follow to keep their integrations secure and compliant.
 

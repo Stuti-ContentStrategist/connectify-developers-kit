@@ -1,6 +1,6 @@
 # ⚙️ SDK Initialization
 
-Once you’ve installed the Connectify Java SDK, the next step is to **initialize it** in your project. Initialization sets up authentication, configuration, and the client environment required for making API calls.
+Once you’ve installed the **Connectify Java SDK**, the next step is to **initialize it** in your project. Initialization sets up authentication, configuration, and the client environment required for making API calls.
 
 ***
 

@@ -1,7 +1,8 @@
 # 🧾 Logging & Debugging
 
-Effective **logging and debugging** are key to maintaining reliable applications and understanding how your SDK interacts with the Connectify Platform.\
-The **Connectify Developer’s Kit (CDK)** includes built-in logging tools and supports integration with Python’s standard `logging` module for consistent, configurable output.
+Effective **logging and debugging** are key to maintaining reliable applications and understanding how your SDK interacts with the Connectify Platform.
+
+The **Connectify Software Development Kit (SDK)** includes built-in logging tools and supports integration with Python’s standard `logging` module for consistent, configurable output.
 
 ***
 
@@ -75,10 +76,10 @@ pgsql
 
 #### 💡 Best Practices
 
-* Use `INFO` level logs in production for minimal noise.
-* Enable `DEBUG` only in development or testing.
-* Rotate log files periodically to avoid large storage usage.
-* Sanitize logs — never record API keys or tokens.
+* **Use** `INFO` **level logs** in production for minimal noise.
+* **Enable** `DEBUG` only in development or testing.
+* **Rotate log files** periodically to avoid large storage usage.
+* **Sanitize logs** — never record API keys or tokens.
 
 ***
 

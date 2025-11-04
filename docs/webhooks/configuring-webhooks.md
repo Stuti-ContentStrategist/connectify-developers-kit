@@ -51,6 +51,6 @@ Signature: t=1730444444,v1=dcbbab7b1f32e9e4...
 
 ***
 
-#### 📚 Next Steps
+#### 📚 Next Page
 
 👉 [🔔 **Event Types**](event-types.md)

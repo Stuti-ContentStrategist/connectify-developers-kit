@@ -1,6 +1,6 @@
 # 💻 System Requirements
 
-Before installing **Connectify Developer’s Kit (CDK)**, make sure your environment meets these requirements.
+Before installing **Connectify Software Development Kit (SDK)**, make sure your environment meets these requirements.
 
 #### 🧩 General Requirements
 

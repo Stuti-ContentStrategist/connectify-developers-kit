@@ -2,12 +2,12 @@
 
 Integrating the **Connectify SDK** into your **CI/CD pipelines** helps you automate builds, tests, and deployments while keeping your device configurations, triggers, and environment variables consistent across all stages of development.
 
-This guide walks you through how to:
+This section walks you through how to:
 
-* Set up Connectify SDK for automated testing and deployment.
-* Securely manage API keys using CI/CD secrets.
-* Run SDK-based scripts in build pipelines.
-* Validate environment consistency after each deployment.
+* **Set up Connectify SDK** for automated testing and deployment.
+* **Securely manage API keys** using CI/CD secrets.
+* **Run SDK-based scripts** in build pipelines.
+* **Validate environment consistency** after each deployment.
 
 ***
 
@@ -96,6 +96,6 @@ sdk.devices.list().then((devices) => {
 
 ***
 
-#### 📚 Next Steps
+#### 📚 Next Page
 
 👉 [🔗 Integration with External APIs](integration-with-external-apis.md)

@@ -1,6 +1,6 @@
 # ⚠️ Error Handling
 
-The **Connectify Developer’s Kit (CDK)** provides a structured and consistent error-handling mechanism that helps you identify, debug, and resolve issues efficiently.
+The **Connectify Software Development Kit (SDK)** provides a structured and consistent error-handling mechanism that helps you identify, debug, and resolve issues efficiently.
 
 Every SDK method and API call returns well-defined exceptions or error codes, making it easier to manage unexpected behaviors gracefully.
 
@@ -42,13 +42,13 @@ This pattern ensures that every potential issue — whether in communication, co
 
 #### 💡 Best Practices
 
-* Always wrap API calls in `try-except` (or equivalent) blocks.
-* Log detailed error messages for debugging.
-* Avoid exposing sensitive data (like tokens) in logs.
-* Use retry logic for transient network or server errors.
+* **Always wrap API calls in** `try-except` (or equivalent) blocks.
+* **Log detailed error messages** for debugging.
+* **Avoid exposing sensitive data** (like tokens) in logs.
+* **Use retry logic** for transient network or server errors.
 
 ***
 
-#### 📚 **Next Pages**
+#### 📚 **Next Page**
 
 👉 [🐍 Python SDK](broken-reference)

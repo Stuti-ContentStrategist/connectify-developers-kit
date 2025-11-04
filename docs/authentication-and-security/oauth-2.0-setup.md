@@ -84,8 +84,7 @@ console.log("Authorize your app by visiting:", oauth.getAuthorizationUrl());
 
 #### 🔄 Step 4: Exchange Code for Access Token
 
-Once the user authorizes your app, Connectify redirects to your callback URL with an authorization code.\
-Use that code to obtain an access token:
+Once the user authorizes your app, Connectify redirects to your callback URL with an authorization code. Use that code to obtain an access token:
 
 **Python:**
 

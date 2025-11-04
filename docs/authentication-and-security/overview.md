@@ -1,6 +1,6 @@
 # 📘 Overview
 
-The **Authentication & Security** section explains how the **Connectify Developer’s Kit (CDK)** ensures secure access to Connectify’s APIs. Every API request must be properly authenticated to protect your data, maintain access control, and ensure the integrity of your integrations.
+The **Authentication & Security** section explains how the **Connectify Software Development Kit (SDK)** ensures secure access to Connectify’s APIs. Every API request must be properly authenticated to protect your data, maintain access control, and ensure the integrity of your integrations.
 
 You’ll learn how to:
 

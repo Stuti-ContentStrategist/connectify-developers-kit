@@ -13,7 +13,7 @@ These guides are designed to help developers quickly embed Connectify capabiliti
 
 ***
 
-#### 📚 Next Steps
+#### 📚 Next Pages
 
 👉 [🌐 **Connecting SDK with Web apps**](connecting-sdk-with-web-apps.md)\
 👉 [🔧 **Using SDK in CI/CD**](using-sdk-in-ci-cd.md) \

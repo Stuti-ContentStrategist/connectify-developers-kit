@@ -47,6 +47,6 @@ This helps validate how your endpoint processes payloads and verifies signatures
 
 ***
 
-#### 📚 Next Steps
+#### 📚 Next Page
 
 👉 [🧩 Integration Guides](broken-reference)

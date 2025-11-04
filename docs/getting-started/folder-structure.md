@@ -3,6 +3,8 @@
 Once installation is complete, your project should follow this layout:
 
 ```css
+css
+
 project-root/
 ├── config/
 │   └── connectify.json

@@ -1,7 +1,6 @@
 # 🔄 Request–Response Cycle
 
-The **Request–Response Cycle** defines how your application communicates with the Connectify Platform through the **Connectify Developer’s Kit (CDK)**.\
-Understanding this flow helps you design reliable API calls, handle responses correctly, and manage errors efficiently.
+The **Request–Response Cycle** defines how your application communicates with the Connectify Platform through the **Connectify Software Development Kit (SDK)**. Understanding this flow helps you design reliable API calls, handle responses correctly, and manage errors efficiently.
 
 #### ⚙️ How It Works
 
@@ -31,8 +30,8 @@ Client App  →  SDK  →  Connectify API  →  Response  →  SDK  →  Client 
 #### 💡 Best Practices
 
 * Always handle both **success** and **error** responses.
-* Log request and response details for debugging during development.
-* Avoid blocking calls; use asynchronous methods wherever possible.
+* **Log request and response details** for debugging during development.
+* **Avoid blocking calls**; use asynchronous methods wherever possible.
 
 💡 **Tip:** Use the SDK’s built-in logging and retry mechanisms to ensure smooth and reliable communication with Connectify’s servers.
 

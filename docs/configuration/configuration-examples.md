@@ -1,6 +1,6 @@
 # 🧩 Configuration Examples
 
-Once you’ve set up your environment and initialized the **Connectify Developer’s Kit (CDK)**, you can customize its configuration to suit your workflow and project structure.
+Once you’ve set up your environment and initialized the **Connectify Software Development Kit (SDK)**, you can customize its configuration to suit your workflow and project structure.
 
 Here are a few common configuration examples for different environments and use cases.
 

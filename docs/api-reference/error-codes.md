@@ -1,6 +1,6 @@
 # ❌ Error Codes
 
-The **Connectify Developer’s Kit (CDK)** uses standardized error codes and messages to help developers quickly identify and resolve issues when interacting with the API.
+The **Connectify Software Development Kit (SDK)** uses standardized error codes and messages to help developers quickly identify and resolve issues when interacting with the API.
 
 Each error response includes an HTTP status code and a descriptive error message.
 
@@ -51,6 +51,6 @@ json
 
 ***
 
-#### 📚 Next Steps
+#### 📚 Next Page
 
 👉 [⏱️ **Pagination & Rate Limits**](pagination-and-rate-limits.md)

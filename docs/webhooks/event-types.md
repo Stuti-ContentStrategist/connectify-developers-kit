@@ -50,6 +50,6 @@ json
 
 ***
 
-#### 📚 Next Steps
+#### 📚 Next Page
 
 👉 [📦 **Payload Format**](payload-format.md)

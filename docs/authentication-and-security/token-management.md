@@ -1,6 +1,6 @@
 # 🔁 Token Management
 
-After successfully obtaining an access token using **OAuth 2.0**, the **Connectify Developer’s Kit (CDK)** helps you manage it efficiently. Tokens authorize your application to perform actions on behalf of a user — so proper management is critical for both security and uptime.
+After successfully obtaining an access token using **OAuth 2.0**, the **Connectify Software Development Kit (SDK)** helps you manage it efficiently. Tokens authorize your application to perform actions on behalf of a user — so proper management is critical for both security and uptime.
 
 ***
 

@@ -1,8 +1,8 @@
 # 📘 Overview
 
-Welcome to the **Connectify Developer’s Kit (CDK)** — your complete toolkit for integrating, automating, and extending the Connectify platform.
+Welcome to the **Connectify Developer’s Kit (CDK)** — your complete **Software Development Kit (SDK)** for integrating, automating, and extending the Connectify platform.
 
-This SDK enables developers to:
+The **SDK** enables developers to:
 
 * 🌐 **Access Connectify’s APIs and automation services**
 * ⚙️ **Manage devices, triggers, and events programmatically**

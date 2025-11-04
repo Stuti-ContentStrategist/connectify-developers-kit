@@ -10,10 +10,10 @@ It combines the concepts you’ve already learned — **API calls, authenticatio
 
 To show how developers can use the Connectify SDK to:
 
-* Authenticate with their Connectify account.
-* Register devices through Unified Remote.
-* Listen for remote-triggered events.
-* Execute custom actions automatically.
+* **Authenticate** with their Connectify account.
+* **Register devices** through Unified Remote.
+* Listen for **remote-triggered events**.
+* **Execute custom actions** automatically.
 
 ***
 

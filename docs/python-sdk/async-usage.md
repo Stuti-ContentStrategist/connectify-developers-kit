@@ -1,15 +1,16 @@
 # ⏳ Async Usage
 
-The **Connectify Developer’s Kit (CDK)** supports **asynchronous operations** in Python to help you build faster, non-blocking applications.\
+The **Connectify Software Development Kit (SDK)** supports **asynchronous operations** in Python to help you build faster, non-blocking applications.&#x20;
+
 This is especially useful for handling multiple API calls simultaneously — such as fetching device statuses, triggering automations, or logging events in parallel.
 
 ***
 
 #### ⚙️ Why Use Async?
 
-* 🚀 Improves performance by handling I/O-bound operations concurrently
-* 💡 Prevents your app from freezing during slow network responses
-* 🧩 Ideal for real-time dashboards, background jobs, or automation scripts
+* 🚀 **Improves performance** by handling I/O-bound operations concurrently
+* 💡 **Prevents your app from freezing** during slow network responses
+* 🧩 Ideal for **real-time dashboards, background jobs**, or **automation scripts**
 
 ***
 

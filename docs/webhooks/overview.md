@@ -1,15 +1,15 @@
 # 📘 Overview
 
-**Webhooks** in the **Connectify Developer’s Kit (CDK)** enable real-time communication between the Connectify platform and your applications.
+**Webhooks** in the **Connectify Software Development Kit (SDK)** enable real-time communication between the Connectify platform and your applications.
 
 They allow you to receive instant notifications whenever specific events occur — such as device updates, automation triggers, or user actions — without continuously polling the API.
 
 Using webhook helps you:
 
-🔔 React instantly to system or user events\
-⚡ Automate workflows based on triggers\
-🧩 Integrate Connectify seamlessly with external systems\
-📊 Reduce unnecessary API calls and improve efficiency
+🔔 **React instantly** to system or user events\
+⚡ **Automate workflows** based on triggers\
+🧩 **Integrate Connectify** seamlessly with external systems\
+📊 **Reduce unnecessary API calls** and improve efficiency
 
 ***
 
@@ -38,9 +38,10 @@ Each webhook request includes a **signature header** that allows your server to 
 
 ***
 
-#### 📚 Next Steps
+#### 📚 Next Pages
 
-👉 [⚙️ **Configuring Webhooks**](configuring-webhooks.md)\
-👉 [🔔 **Event Types**](event-types.md)\
-👉 [📦 **Payload Format**](payload-format.md)\
-👉 [✍️ **Signature Verification**](signature-verification.md)
+👉 [⚙️ Configuring Webhooks](configuring-webhooks.md)\
+👉 [🔔 Event Types](event-types.md)\
+👉 [📦 Payload Format](payload-format.md)\
+👉 [✍️ Signature Verification](signature-verification.md)\
+👉 [🧪 Testing Webhooks](testing-webhooks.md)

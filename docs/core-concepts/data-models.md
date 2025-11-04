@@ -6,10 +6,10 @@ They serve as blueprints for requests, responses, and entities, ensuring consist
 
 #### 🧱 Purpose of Data Models
 
-* Standardize the structure of data exchanged between client apps and APIs
-* Simplify object handling by mapping JSON responses to predefined classes or objects
-* Improve readability and reduce manual parsing errors
-* Ensure uniformity across all supported SDK languages (Python, Java, JavaScript)
+* 📊 **Standardize the structure of data** exchanged between client apps and APIs
+* 🧩 **Simplify object handling** by mapping JSON responses to predefined classes or objects
+* 🧠 **Improve readability** and reduce manual parsing errors
+* 🌐 **Ensure uniformity across all supported SDK languages** (Python, Java, JavaScript)
 
 #### 🧩 Common Model Types
 
@@ -40,13 +40,13 @@ This model helps you access API response data as attributes — instead of navig
 
 #### 💡 Best Practices
 
-* Keep model definitions minimal and relevant to your use case.
-* Use descriptive names for fields and parameters.
-* Validate data before serialization or deserialization.
-* Reuse existing models to maintain consistency across modules.
+* **Keep model definitions minimal** and relevant to your use case.
+* **Use descriptive names** for fields and parameters.
+* **Validate data** before serialization or deserialization.
+* **Reuse existing models** to maintain consistency across modules.
 
 ***
 
-#### 📚 **Next Pages**
+#### 📚 **Next Page**
 
 👉 [⚠️ Error Handling](error-handling.md)

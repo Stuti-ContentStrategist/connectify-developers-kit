@@ -1,6 +1,6 @@
 # 🏗️ SDK Architecture
 
-The **Connectify Developer’s Kit (CDK)** is designed with a modular, layered architecture that simplifies integration while ensuring flexibility and scalability. Each component of the SDK has a specific responsibility, making it easy to extend and maintain your implementation.
+The **Connectify Software Development Kit (SDK)** is designed with a modular, layered architecture that simplifies integration while ensuring flexibility and scalability. Each component of the SDK has a specific responsibility, making it easy to extend and maintain your implementation.
 
 #### 🧱 Key Components
 

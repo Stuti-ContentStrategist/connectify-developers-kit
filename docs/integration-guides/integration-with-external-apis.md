@@ -2,12 +2,12 @@
 
 The **Connectify SDK** can work seamlessly alongside **third-party APIs** to extend your application’s functionality. You can combine data, automate cross-platform actions, or synchronize events between Connectify and external services — all within a unified workflow.
 
-This guide walks you through how to:
+This section walks you through how to:
 
-* Connect and exchange data between Connectify and external APIs.
-* Authenticate and manage multiple API tokens securely.
-* Chain API requests for enhanced automation.
-* Handle errors and rate limits effectively.
+* **Connect and exchange data** between Connectify and external APIs.
+* **Authenticate and manage** multiple API tokens securely.
+* **Chain API requests** for enhanced automation.
+* **Handle errors and rate limits** effectively.
 
 ***
 
@@ -103,6 +103,6 @@ sdk.on("device_offline", async (device) => {
 
 ***
 
-#### 📚 Next Steps
+#### 📚 Next Page
 
 👉 [🧠 Example: Unified Remote Integration](example-unified-remote-integration.md)

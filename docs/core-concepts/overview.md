@@ -1,6 +1,6 @@
 # 📘 Overview
 
-The **Core Concepts** section gives you a clear understanding of how the **Connectify Developer’s Kit (CDK)** operates behind the scenes. Before diving into API endpoints or integrations, it’s important to know how the SDK handles communication, structure, and data flow.
+The **Core Concepts** section gives you a clear understanding of how the **Connectify Software Development Kit (SDK)** operates behind the scenes. Before diving into API endpoints or integrations, it’s important to know how the SDK handles communication, structure, and data flow.
 
 You’ll learn how to:
 
