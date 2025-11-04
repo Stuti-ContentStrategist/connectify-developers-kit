@@ -51,6 +51,6 @@ If the same data is requested frequently, serve it from the cache instead of the
 
 ***
 
-#### 📚 Next Steps
+#### 📚 Next Page
 
 👉 [🧾 Error Logging](error-logging.md)

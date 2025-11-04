@@ -110,6 +110,6 @@ pip install connectify-sdk
 
 ***
 
-#### 📚 Next Steps
+#### 📚 Next Page
 
 👉 [🕵️ Debugging Techniques](debugging-techniques.md)

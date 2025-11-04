@@ -99,6 +99,7 @@
 
 ## 🩺 Troubleshooting
 
+* [📘 Overview](troubleshooting/overview.md)
 * [💭 FAQs](troubleshooting/faqs.md)
 * [🧮 Error Reference Table](troubleshooting/error-reference-table.md)
 * [📞 Support Channels](troubleshooting/support-channels.md)

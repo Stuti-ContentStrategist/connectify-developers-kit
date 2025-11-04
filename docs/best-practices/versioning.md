@@ -119,6 +119,6 @@ For SDKs interacting with APIs:
 ✅ Communicate major updates via release notes.\
 ✅ Keep your changelog human-readable and up to date.
 
-#### 📚 Next Steps
+#### 📚 Next Page
 
 👉 [🧰 Testing & Debugging](broken-reference)

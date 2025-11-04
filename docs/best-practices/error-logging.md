@@ -93,6 +93,6 @@ logError("ERROR", "Invalid token", { request_id: "req_9823", module: "Auth" });
 
 ***
 
-#### 📚 Next Steps
+#### 📚 Next Page
 
 👉 [📗 Versioning](versioning.md)

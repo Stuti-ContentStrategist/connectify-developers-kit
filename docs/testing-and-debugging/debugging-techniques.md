@@ -133,6 +133,6 @@ connectify-sdk --version
 
 ***
 
-#### 📘 Next Steps
+#### 📚 Next Page
 
 👉 [🎭 Mocking API Responses](mocking-api-responses.md)

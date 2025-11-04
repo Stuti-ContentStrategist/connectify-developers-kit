@@ -15,7 +15,7 @@ You’ll learn how to:
 
 ***
 
-#### 📚 Next Steps
+#### 📚 Next Pages
 
 👉 [🧪 Running Test Scripts](running-test-scripts.md)\
 👉 [❗ Common Issues](common-issues.md)\

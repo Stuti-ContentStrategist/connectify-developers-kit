@@ -48,6 +48,6 @@ Store frequently used data (like device configurations or status lists) locally 
 
 ***
 
-#### 📚 Next Steps
+#### 📚 Next Page
 
 👉 📦 Caching Strategies

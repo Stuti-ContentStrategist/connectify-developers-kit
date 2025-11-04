@@ -105,6 +105,6 @@ pytest tests/test_connectify_client.py
 
 ***
 
-#### &#x20;📚 Next Steps
+#### &#x20;📚 Next Page
 
 👉 [❗ Common Issues](common-issues.md)
