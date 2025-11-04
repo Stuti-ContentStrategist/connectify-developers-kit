@@ -59,4 +59,4 @@ Keep your configuration files **outside your version control system** (e.g., add
 
 #### 📚 Next Step
 
-👉 [⚡ **JavaScript Integration**](broken-reference)
+👉 [🔄 API Reference](broken-reference)

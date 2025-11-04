@@ -56,16 +56,6 @@
 * [🚫 Common Exceptions](java-sdk/common-exceptions.md)
 * [🧩 Configuration File Sample](java-sdk/configuration-file-sample.md)
 
-## ⚡ JavaScript Integration
-
-* [📘 Overview](javascript-integration/overview.md)
-* [📦 Installation (npm/yarn)](javascript-integration/installation-npm-yarn.md)
-* [🧠 Using SDK in Node.js](javascript-integration/using-sdk-in-node.js.md)
-* [🌐 Using SDK in Browser](javascript-integration/using-sdk-in-browser.md)
-* [🔁 Async & Promises](javascript-integration/async-and-promises.md)
-* [🎯 Event Handling](javascript-integration/event-handling.md)
-* [🧯 Troubleshooting](javascript-integration/troubleshooting.md)
-
 ## 🔄 API Reference
 
 * [📘 Overview](api-reference/overview.md)
@@ -81,9 +71,11 @@
 * [🔔 Event Types](webhooks/event-types.md)
 * [📦 Payload Format](webhooks/payload-format.md)
 * [✍️ Signature Verification](webhooks/signature-verification.md)
+* [🧪 Testing Webhooks](webhooks/testing-webhooks.md)
 
 ## 🧩 Integration Guides
 
+* [📘 Overview](integration-guides/overview.md)
 * [🌐 Connecting SDK with Web Apps](integration-guides/connecting-sdk-with-web-apps.md)
 * [🔧 Using SDK in CI/CD](integration-guides/using-sdk-in-ci-cd.md)
 * [🔗 Integration with External APIs](integration-guides/integration-with-external-apis.md)
