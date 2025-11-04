@@ -77,7 +77,6 @@
 ## 💬 Webhooks
 
 * [📘 Overview](webhooks/overview.md)
-* [📖 Introduction to Webhooks](webhooks/introduction-to-webhooks.md)
 * [⚙️ Configuring Webhooks](webhooks/configuring-webhooks.md)
 * [🔔 Event Types](webhooks/event-types.md)
 * [📦 Payload Format](webhooks/payload-format.md)
