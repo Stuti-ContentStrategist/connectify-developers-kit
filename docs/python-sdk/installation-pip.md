@@ -75,6 +75,6 @@ Once installed, you can start importing the SDK into your Python scripts and ini
 
 ***
 
-#### 📚 **Next Steps**
+#### 📚 **Next Page**
 
 👉 [⚙️ SDK Initialization](../java-sdk/sdk-initialization.md)

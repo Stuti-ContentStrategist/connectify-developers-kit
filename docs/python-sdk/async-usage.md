@@ -78,6 +78,6 @@ Your SDK can now handle multiple operations concurrently — perfect for respons
 
 ***
 
-#### 📚 **Next Steps**
+#### 📚 **Next Page**
 
 👉 [🚫 Handling Exceptions](handling-exceptions.md)

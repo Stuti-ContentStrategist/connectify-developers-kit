@@ -23,3 +23,9 @@ This SDK is modular — every component (authentication, API requests, responses
 * Working code samples
 * Configuration templates
 * Built-in error handling utilities
+
+***
+
+#### 📚 **Next Page**
+
+👉 [🆕 Release Highlights](release-highlights.md)

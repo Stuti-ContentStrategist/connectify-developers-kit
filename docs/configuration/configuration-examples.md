@@ -142,3 +142,10 @@ const sdk = new ConnectifySDK(config);
 * 🧱 Use environment variables for production, and config files for local development.
 * 🔐 Always validate config values before SDK initialization.
 * ⚡ Keep reusable setup code in a separate module or service for maintainability.
+
+***
+
+#### 📚 **Next Page**
+
+👉 [🔐 Authentication & Security](broken-reference)[\
+](environment-setup.md)

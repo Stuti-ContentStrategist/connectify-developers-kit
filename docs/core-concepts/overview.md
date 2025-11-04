@@ -13,9 +13,9 @@ You’ll learn how to:
 
 ***
 
-#### 📚 **Next Steps**
+#### 📚 **Next Pages**
 
-👉 [SDK Architecture\
-](sdk-architecture.md)👉 [Request–Response Cycle](request-response-cycle.md)\
-👉 [Data Models](data-models.md)\
-👉 [Error Handling](error-handling.md)
+👉 [🏗️ SDK Architecture](sdk-architecture.md)[\
+](sdk-architecture.md)👉[ 🔄 Request–Response Cycle](request-response-cycle.md)\
+👉 [🧬 Data Models](data-models.md)\
+👉 [⚠️ Error Handling](error-handling.md)

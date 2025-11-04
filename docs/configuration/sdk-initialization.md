@@ -69,3 +69,9 @@ console.log("Connectify SDK initialized successfully!");
 * Initialization should occur **once** at the start of your application to ensure consistent API access.
 
 💡 **Tip:** If you experience authentication issues, revisit your environment variables in the previous section.
+
+***
+
+#### 📚 **Next Page**
+
+👉 [🔐 API Keys & Secrets](api-keys-and-secrets.md)\

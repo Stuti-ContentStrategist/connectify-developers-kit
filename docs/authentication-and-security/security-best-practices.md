@@ -89,4 +89,8 @@ Security isn’t a one-time setup — it’s an ongoing process.
 
 Keep your SDK environment clean, your credentials secret, and your connections encrypted 🔐
 
-📚 **Next Step:**  [Core Concepts](broken-reference)
+***
+
+#### 📚 **Next Page**
+
+👉 [🧱 Core Concepts](broken-reference)

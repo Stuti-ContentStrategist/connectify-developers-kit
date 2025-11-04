@@ -84,6 +84,6 @@ You now know how to safely manage and debug errors while working with the Python
 
 ***
 
-#### 📚 **Next Steps**
+#### 📚 **Next Page**
 
 👉 [🧾 Logging & Debugging](logging-and-debugging.md)

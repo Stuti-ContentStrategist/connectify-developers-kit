@@ -87,6 +87,6 @@ With proper logging in place, you can easily monitor SDK behavior, diagnose issu
 
 ***
 
-#### 📚 **Next Steps**
+#### 📚 **Next Page**
 
 👉 [☕ Java SDK](broken-reference)

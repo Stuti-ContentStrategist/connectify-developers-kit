@@ -97,6 +97,6 @@ You’ve now seen how to use the SDK to make real API calls. Next, you’ll lear
 
 ***
 
-#### 📚 **Next Steps**
+#### 📚 **Next Page**
 
 👉 [⏳ Async Usage](async-usage.md)

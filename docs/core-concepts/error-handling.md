@@ -49,6 +49,6 @@ This pattern ensures that every potential issue — whether in communication, co
 
 ***
 
-#### 📚 **Next Steps**
+#### 📚 **Next Pages**
 
 👉 [🐍 Python SDK](broken-reference)

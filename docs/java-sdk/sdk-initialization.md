@@ -54,6 +54,6 @@ Use environment variables or encrypted configuration files instead.
 
 ***
 
-#### 📚 Next Step
+#### 📚 Next Page
 
 👉 [💬 **API Usage Examples**](api-usage-examples.md)

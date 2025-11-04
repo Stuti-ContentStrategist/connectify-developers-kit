@@ -60,6 +60,6 @@ If your organization uses an internal artifact repository, ensure that it’s co
 
 ***
 
-#### 📚 Next Steps
+#### 📚 Next Page
 
 👉 [⚙️ **SDK Initialization**](sdk-initialization.md)\

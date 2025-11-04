@@ -13,9 +13,9 @@ You’ll learn how to:
 
 ***
 
-#### 📚 Next Steps
+#### 📚 Next Pages
 
-👉 [System Requirements](system-requirements.md)\
-👉 [Installation Guide\
-](installation-guide.md)👉 [Folder Structure\
-](folder-structure.md)👉 [First API Call](first-api-call.md)
+👉 [💻System Requirements](system-requirements.md)\
+👉 [🧭 Installation Guide](installation-guide.md)[\
+](installation-guide.md)👉 [📂 Folder Structure](folder-structure.md)[\
+](folder-structure.md)👉 [🔑 First API Call](first-api-call.md)

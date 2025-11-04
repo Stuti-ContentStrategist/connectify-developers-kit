@@ -47,6 +47,6 @@ This model helps you access API response data as attributes — instead of navig
 
 ***
 
-#### 📚 **Next Steps**
+#### 📚 **Next Pages**
 
-👉 [Error Handling](error-handling.md)
+👉 [⚠️ Error Handling](error-handling.md)

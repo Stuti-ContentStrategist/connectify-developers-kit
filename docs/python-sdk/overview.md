@@ -27,7 +27,7 @@ This section will guide you through:
 
 ***
 
-#### 📚 **Next Steps**
+#### 📚 **Next Pages**
 
 👉 [📦 Installation (pip)](installation-pip.md)\
 👉 [⚙️ Initialization\

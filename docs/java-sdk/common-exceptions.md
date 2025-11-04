@@ -77,6 +77,6 @@ Implement centralized error handling to log, categorize, and alert on exceptions
 
 ***
 
-#### 📚 Next Step
+#### 📚 Next Page
 
 👉 [🧩 **Configuration File Sample**](configuration-file-sample.md)

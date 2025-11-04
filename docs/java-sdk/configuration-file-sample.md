@@ -57,6 +57,6 @@ Keep your configuration files **outside your version control system** (e.g., add
 
 ***
 
-#### 📚 Next Step
+#### 📚 Next Page
 
 👉 [🔄 API Reference](broken-reference)

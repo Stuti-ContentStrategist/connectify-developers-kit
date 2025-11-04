@@ -15,9 +15,9 @@ Each step ensures that your SDK runs smoothly and securely across different setu
 
 ***
 
-#### 📚 **Next Steps**
+#### 📚 **Next Pages**
 
-👉 [Environment Setup\
-](environment-setup.md)👉 [SDK Initialization](../java-sdk/sdk-initialization.md)\
-👉 [API Keys & Secrets](api-keys-and-secrets.md)\
-👉 [Configuration Examples](configuration-examples.md)
+👉 [🧱 Environment Setup](environment-setup.md)[\
+](environment-setup.md)👉 [⚡ SDK Initialization](../java-sdk/sdk-initialization.md)\
+👉 [🔐 API Keys & Secrets](api-keys-and-secrets.md)\
+👉 [🧩 Configuration Examples](configuration-examples.md)

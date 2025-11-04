@@ -59,3 +59,10 @@ Import in your code:
 </strong>
 import Connectify from "connectify-sdk";
 </code></pre>
+
+***
+
+#### 📚 Next Page
+
+👉 [📂 Folder Structure](folder-structure.md)[\
+](folder-structure.md)

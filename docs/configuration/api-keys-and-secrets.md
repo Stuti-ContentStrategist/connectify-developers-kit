@@ -72,3 +72,9 @@ const sdk = new ConnectifySDK({
 * 🔁 **Rotate keys** regularly for improved security.
 * 🧱 **Use environment variables** instead of hardcoding credentials.
 * 🕵️ **Restrict access** to keys based on role or environment.
+
+***
+
+#### 📚 **Next Page**
+
+👉 [🧩 Configuration Examples](configuration-examples.md)

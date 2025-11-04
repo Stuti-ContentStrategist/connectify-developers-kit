@@ -119,4 +119,8 @@ print("Access Token:", token)
 You’ve now set up OAuth 2.0 authentication for your Connectify SDK integration.\
 Your app can securely obtain and use access tokens to interact with Connectify’s APIs on behalf of users.
 
-📚 **Next Step:** [Token Management](token-management.md)
+***
+
+#### 📚 **Next Page**
+
+👉 [🔁 Token Management](token-management.md)\

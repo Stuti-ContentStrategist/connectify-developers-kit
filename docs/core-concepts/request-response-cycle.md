@@ -38,7 +38,6 @@ Client App  →  SDK  →  Connectify API  →  Response  →  SDK  →  Client 
 
 ***
 
-#### 📚 **Next Steps**
+#### 📚 **Next Page**
 
-👉 [Data Models](data-models.md)\
-👉 [Error Handling](error-handling.md)
+👉 [🧬 Data Models](data-models.md)\

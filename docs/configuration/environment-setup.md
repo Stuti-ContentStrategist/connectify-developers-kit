@@ -4,8 +4,6 @@ Before initializing the Connectify Developer’s Kit (CDK), you need to set up y
 
 #### 🖥️ System Preparation
 
-
-
 1. **Install a Supported Programming Language:**
    * 🐍 Python 3.8 or later
    * ☕ Java 11 or later
@@ -80,3 +78,9 @@ After setup, verify that your SDK is recognized:
     ```
 
 If the commands return a valid version number or confirmation message, your environment setup is complete 🎉
+
+***
+
+#### 📚 **Next Page**
+
+👉 [⚡ SDK Initialization](../java-sdk/sdk-initialization.md)\

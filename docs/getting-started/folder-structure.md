@@ -23,3 +23,9 @@ project-root/
 * **README.md** – includes setup and usage details
 
 💡 **Tip:** Always keep credentials and secrets in environment variables, not config files.
+
+***
+
+#### 📚 Next Page
+
+👉 [🔑 First API Call](first-api-call.md)

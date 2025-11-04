@@ -15,7 +15,7 @@ With the Connectify APIs, you can:
 
 ***
 
-#### 📚 Next Steps
+#### 📚 Next Pages
 
 👉 [🌍 **REST Endpoints**](rest-endpoints.md)\
 👉 [📤 **Request & Response Formats**](request-and-response-formats.md)\

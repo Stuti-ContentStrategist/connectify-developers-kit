@@ -51,3 +51,9 @@ json
 ```
 
 💡 **Tip:** If the connection fails, check your API key, network access, and firewall settings.
+
+***
+
+#### 📚 Next Page
+
+👉 [⚙️ Configuration](broken-reference)

@@ -28,10 +28,9 @@ Each version offers consistent structure, naming conventions, and examples for a
 
 ***
 
-#### 🚀 Next Steps
+#### 📚 **Next Pages**
 
-To get started:
+👉 [ℹ️ About This SDK](home/about-this-sdk.md)
 
-1. Go to [**Getting Started**](broken-reference) **→** [**Installation Guide**](getting-started/installation-guide.md)
-2. Install your preferred SDK package
-3. Run your [**first API call**](getting-started/first-api-call.md) in minutes
+👉 [🆕 Release Highlights](home/release-highlights.md)
+

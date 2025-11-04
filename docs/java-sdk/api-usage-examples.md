@@ -77,6 +77,6 @@ This helps track API requests and responses during development.
 
 ***
 
-#### 📚 Next Step
+#### 📚 Next Page
 
 👉 [🚫 **Common Exceptions**](common-exceptions.md)

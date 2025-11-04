@@ -15,8 +15,8 @@ By following these steps, you’ll establish a robust and secure connection betw
 
 ***
 
-#### 📚 **Next Steps**
+#### 📚 **Next Pages**
 
-👉 [OAuth 2.0 Setup](oauth-2.0-setup.md)\
-👉 [Token Management](token-management.md)\
-👉 [Security Best Practices](security-best-practices.md)
+👉 [🔑 OAuth 2.0 Setup](oauth-2.0-setup.md)\
+👉 [🔁 Token Management](token-management.md)\
+👉 [🛡️ Security Best Practices](security-best-practices.md)

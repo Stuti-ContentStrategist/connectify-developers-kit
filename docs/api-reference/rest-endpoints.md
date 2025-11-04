@@ -57,6 +57,6 @@ json
 
 ***
 
-#### 📚 Next Steps
+#### 📚 Next Page
 
-👉 re[request-and-response-formats.md](request-and-response-formats.md "mention")
+👉 [request-and-response-formats.md](request-and-response-formats.md "mention")

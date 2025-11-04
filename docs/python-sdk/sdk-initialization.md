@@ -86,6 +86,6 @@ Your SDK is now initialized and ready to make your first API call.
 
 ***
 
-#### 📚 **Next Steps**
+#### 📚 **Next Page**
 
 👉 [💬 Example API Calls](example-api-calls.md)

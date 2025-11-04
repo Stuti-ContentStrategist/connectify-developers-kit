@@ -27,3 +27,10 @@ Before installing **Connectify Developer’s Kit (CDK)**, make sure your environ
 * **Browser Support:** Chrome, Edge, Firefox, Safari (latest two versions)
 
 💡 **Tip:** Keep all SDK dependencies updated and avoid mixing versions across projects.
+
+***
+
+#### 📚 Next Page
+
+👉 [🧭 Installation Guide](installation-guide.md)[\
+](installation-guide.md)

@@ -26,8 +26,6 @@ The **Connectify Developer’s Kit (CDK)** is designed with a modular, layered a
 
 ***
 
-#### 📚 **Next Steps**
+#### 📚 **Next Page**
 
-👉 [Request–Response Cycle\
-](request-response-cycle.md)👉 [Data Models](data-models.md)\
-👉 [Error Handling](error-handling.md)
+👉[ 🔄 Request–Response Cycle](request-response-cycle.md)\

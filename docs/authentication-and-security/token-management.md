@@ -102,4 +102,6 @@ console.log("New access token generated:", newToken);
 Proper token management ensures your Connectify integrations remain secure and uninterrupted.\
 By combining automatic refresh with good storage hygiene, you maintain both reliability and data protection.
 
-📚 **Next Step:** [Security Best Practices](security-best-practices.md)
+#### 📚 **Next Page**
+
+👉 [🛡️ Security Best Practices](security-best-practices.md)

@@ -21,7 +21,7 @@ Use the Java SDK when you’re:
 
 ***
 
-#### 📚 Next Steps
+#### 📚 Next Pages
 
 👉 [📦 **Installation (Maven/Gradle)**](installation-maven-gradle.md)\
 👉 [⚙️ **SDK Initialization**](sdk-initialization.md)\
