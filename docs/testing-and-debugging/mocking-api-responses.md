@@ -44,7 +44,7 @@ devices = client.get_devices()
 print(devices)
 </code></pre>
 
-💡 _Tip:_ Use this mode to test UI workflows before backend integration is ready.
+💡 Tip: Use this mode to test UI workflows before backend integration is ready.
 
 ***
 
@@ -130,4 +130,4 @@ Mocking allows SDK tests to run **without network dependencies** inside CI/CD en
 
 #### 📚 Next Page
 
-👉 🩺 Troubleshooting
+👉 [🩺 Troubleshooting](broken-reference)

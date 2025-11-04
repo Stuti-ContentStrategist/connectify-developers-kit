@@ -19,7 +19,7 @@ This section highlights frequent problems and provides practical steps to identi
 * Verify that your **environment variables** (like `CONNECTIFY_API_KEY`) are correctly set.
 * Check for **extra spaces or invisible characters** in copied credentials.
 
-💡 _Tip:_ Use the **ping()** or **health-check endpoint** to confirm connectivity.
+💡 Tip: Use the **ping()** or **health-check endpoint** to confirm connectivity.
 
 ***
 

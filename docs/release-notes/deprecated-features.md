@@ -12,6 +12,6 @@ Deprecated items are still functional but will be removed in a future release. D
 
 ⚠️ **Note:** Deprecated features will continue to function until the next major release but are no longer actively maintained.
 
-#### 📚 Next Pages
+#### 📚 Next Page
 
 👉 [🔮 Upcoming Enhancements](upcoming-enhancements.md)\

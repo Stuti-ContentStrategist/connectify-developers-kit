@@ -2,12 +2,12 @@
 
 The **Connectify SDK** can work seamlessly alongside **third-party APIs** to extend your application’s functionality. You can combine data, automate cross-platform actions, or synchronize events between Connectify and external services — all within a unified workflow.
 
-This section walks you through how to:
+This **section** walks you through how to:
 
-* **Connect and exchange data** between Connectify and external APIs.
-* **Authenticate and manage** multiple API tokens securely.
-* **Chain API requests** for enhanced automation.
-* **Handle errors and rate limits** effectively.
+* 🌐 **Connect and exchange data** between Connectify and external APIs
+* 🔐 **Authenticate and manage** multiple API tokens securely
+* ⚙️ **Chain API requests** for enhanced automation
+* 🛡️ **Handle errors and rate limits** effectively
 
 ***
 
@@ -88,18 +88,18 @@ sdk.on("device_offline", async (device) => {
 
 #### ✅ Verification
 
-* Check both platforms’ dashboards or logs for successful request/response updates.
-* Verify that API tokens are valid and have appropriate scopes.
-* Review rate limits and handle retries gracefully for large-scale integrations.
+* Check **both platforms’ dashboards or logs** for successful request/response updates.
+* Verify that **API tokens are valid** and have appropriate scopes.
+* **Review rate limits** and handle retries gracefully for large-scale integrations.
 
 ***
 
 #### 💡 Best Practices
 
-* Use environment variables for all credentials.
-* Log API responses selectively — avoid storing sensitive data.
-* Cache common responses to reduce API calls.
-* Use retry policies or exponential backoff for transient errors.
+* Use **environment variables** for all credentials.
+* **Log API responses selectively** — avoid storing sensitive data.
+* **Cache common responses** to reduce API calls.
+* Use **retry policies** or exponential backoff for transient errors.
 
 ***
 

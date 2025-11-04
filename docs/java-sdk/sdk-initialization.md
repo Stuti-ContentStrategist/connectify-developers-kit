@@ -49,8 +49,7 @@ java
 
 #### 💡 Tip
 
-Store your credentials securely — never hard-code API keys directly in source files.\
-Use environment variables or encrypted configuration files instead.
+Store your credentials securely — never hard-code API keys directly in source files. Use environment variables or encrypted configuration files instead.
 
 ***
 

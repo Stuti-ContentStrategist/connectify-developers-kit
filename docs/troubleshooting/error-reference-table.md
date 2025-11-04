@@ -12,6 +12,6 @@
 
 ***
 
-#### 📚 Next Pages
+#### 📚 Next Page
 
 👉 [📞 Support Channels](support-channels.md)\

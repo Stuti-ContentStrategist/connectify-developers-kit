@@ -14,7 +14,7 @@ Ensure that:
 * You have valid **API keys or access tokens**.
 * Your environment variables (e.g., `API_BASE_URL`, `SDK_KEY`) are correctly configured.
 
-💡 _Tip:_ Use a **sandbox environment** whenever possible to avoid impacting production data.
+💡 Tip: Use a **sandbox environment** whenever possible to avoid impacting production data.
 
 ***
 
@@ -77,7 +77,7 @@ After confirming connectivity, run endpoint-specific tests:
 * **Data Retrieval Test:** Fetch a list of devices, events, or triggers.
 * **Error Handling Test:** Use invalid credentials to ensure proper error responses.
 
-💡 _Tip:_ Always test with both **valid** and **invalid** data to confirm robustness.
+💡 Tip: Always test with both **valid** and **invalid** data to confirm robustness.
 
 ***
 
@@ -99,9 +99,9 @@ pytest tests/test_connectify_client.py
 
 #### 📊 5. Analyze Results
 
-* Log all test outputs for reference.
-* Identify failures early to isolate configuration or code issues.
-* Re-run only the failed tests after fixes to confirm resolution.
+* **Log all test outputs** for reference.
+* **Identify failures** early to isolate configuration or code issues.
+* **Re-run only the failed tests** after fixes to confirm resolution.
 
 ***
 

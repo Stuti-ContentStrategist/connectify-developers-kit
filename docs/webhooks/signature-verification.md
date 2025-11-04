@@ -6,11 +6,10 @@ Every webhook request from **Connectify** includes a **signature header** to hel
 
 #### 🔐 Why Signature Verification Matters
 
-Verifying the signature ensures that:
-
-* The webhook request genuinely came from **Connectify**.
-* The payload data was not modified in transit.
-* Your system is protected from spoofed or malicious webhook calls.
+* ✅ **Verifying the signature ensures that:**
+  * 🔒 The webhook request genuinely came from **Connectify**
+  * 🧩 The payload data was **not modified** in transit
+  * 🛡️ Your system is **protected from spoofed or malicious** webhook calls
 
 ***
 

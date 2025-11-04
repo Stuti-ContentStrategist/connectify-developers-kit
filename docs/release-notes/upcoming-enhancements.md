@@ -10,3 +10,7 @@ This section highlights upcoming updates planned for future SDK releases.
 | v2.5.0              | Improved documentation examples with real-world use cases.                | 🧩 Planned       |
 
 💡 **Stay Updated:** Subscribe to SDK update notifications or follow the release announcements on our developer portal to get early access to beta features.
+
+#### 📚 Next Page
+
+👉 [✍️ About the Author](../about-the-author.md)\

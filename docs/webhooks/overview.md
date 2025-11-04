@@ -6,10 +6,10 @@ They allow you to receive instant notifications whenever specific events occur �
 
 Using webhook helps you:
 
-🔔 **React instantly** to system or user events\
-⚡ **Automate workflows** based on triggers\
-🧩 **Integrate Connectify** seamlessly with external systems\
-📊 **Reduce unnecessary API calls** and improve efficiency
+* 🔔 **React instantly** to system or user events
+* ⚡ **Automate workflows** based on triggers
+* 🧩 **Integrate Connectify seamlessly** with external systems
+* 📈 **Reduce unnecessary API calls** and improve efficiency
 
 ***
 

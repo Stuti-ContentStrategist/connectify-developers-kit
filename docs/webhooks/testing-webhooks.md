@@ -1,6 +1,6 @@
 # 🧪 Testing Webhooks
 
-Before going live, it’s essential to test your webhook setup to make sure events are delivered, verified, and handled correctly. Connectify provides multiple ways to test and debug your webhook integration safely.
+Before going live, it’s essential to **test your webhook** setup to make sure events are delivered, verified, and handled correctly. Connectify provides multiple ways to test and debug your webhook integration safely.
 
 ***
 

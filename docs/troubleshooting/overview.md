@@ -4,11 +4,11 @@ Even with proper configuration, developers may occasionally face issues while in
 
 This section provides quick assistance through **frequently asked questions**, an **error reference table**, and official **support channels**.
 
-It helps you:
+This section helps you:
 
-* Identify common SDK-related problems
-* Understand error messages and their causes
-* Access reliable support resources for resolution
+* 🐞 **Identify common SDK-related problems**
+* ⚠️ **Understand error messages** and their causes
+* 🆘 **Access reliable support resources** for resolution
 
 ***
 

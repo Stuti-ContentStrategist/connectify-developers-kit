@@ -8,12 +8,12 @@ It combines the concepts you’ve already learned — **API calls, authenticatio
 
 #### 🎯 Objective
 
-To show how developers can use the Connectify SDK to:
+This **section** shows how developers can use the **Connectify SDK** to:
 
-* **Authenticate** with their Connectify account.
-* **Register devices** through Unified Remote.
-* Listen for **remote-triggered events**.
-* **Execute custom actions** automatically.
+* 🔐 **Authenticate** with their Connectify account
+* ⚙️ **Register devices** through Unified Remote
+* 🔔 **Listen for remote-triggered events**
+* 🤖 **Execute custom actions** automatically
 
 ***
 
@@ -115,9 +115,9 @@ This code shows how to link Unified Remote inputs to SDK actions automatically.
 
 This integration example demonstrates:
 
-* How to connect Unified Remote with Connectify SDK.
-* Event-driven automation between two systems.
-* Real-time response handling and device synchronization.
+* How to connect **Unified Remote with Connectify SDK.**
+* **Event-driven automation** between two systems.
+* **Real-time response handling** and device synchronization.
 
 With this foundation, you can expand the logic to include **multiple devices**, **custom triggers**, or **cloud synchronization** through webhooks.
 

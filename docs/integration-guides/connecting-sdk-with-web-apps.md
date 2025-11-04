@@ -2,12 +2,12 @@
 
 The **Connectify SDK** can be easily integrated into your web applications to enable real-time device control, data exchange, and event automation directly from the browser or backend services.
 
-This  section walks you through how to:
+This **section** walks you through how to:
 
-* **Initialize the SDK** in both **frontend (browser)** and **backend (Node.js)** environments.
-* **Authenticate users** and manage API keys securely.
-* **Send and receive data** between your app and the Connectify platform.
-* **Test and verify** successful integration.
+* ⚙️ **Initialize the SDK** in both frontend (browser) and backend (Node.js) environments
+* 🔐 **Authenticate users** and manage API keys securely
+* 🔄 **Send and receive data** between your app and the Connectify platform
+* ✅ **Test and verify** successful integration
 
 ***
 
@@ -68,9 +68,9 @@ sdk.on("device_connected", (device) => {
 
 #### ✅ Verification
 
-* Ensure the browser console or server log displays device information.
-* If authentication fails, double-check your API key and secret.
-* Test event triggers through your Connectify Dashboard to verify connectivity.
+* Ensure the **browser console or server log displays** device information.
+* If authentication fails, **double-check your API key** and secret.
+* Test event triggers through your **Connectify Dashboard** to verify connectivity.
 
 ***
 

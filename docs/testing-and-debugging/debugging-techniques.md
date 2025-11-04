@@ -32,7 +32,7 @@ const client = new ConnectifyClient({
 client.connect();
 ```
 
-💡 _Tip:_ Debug mode helps capture request/response cycles, API URLs, and payload data — invaluable for diagnosing silent failures.
+💡 Tip: Debug mode helps capture request/response cycles, API URLs, and payload data — invaluable for diagnosing silent failures.
 
 ***
 
@@ -84,7 +84,7 @@ Capture outbound API calls to ensure the request structure matches the documenta
   * Payload structure
   * Response body and status code
 
-💡 _Tip:_ Compare a successful and a failed request to pinpoint the mismatch.
+💡 Tip: Compare a successful and a failed request to pinpoint the mismatch.
 
 ***
 

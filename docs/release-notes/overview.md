@@ -3,12 +3,12 @@
 The **Release Notes** section provides detailed information about all SDK version updates.\
 Each entry highlights new features, resolved issues, deprecated elements, and planned improvements — helping developers stay up to date and maintain compatibility with the latest SDK version.
 
-Use this section to:
+This section helps you:
 
-* Track changes introduced in each version.
-* Identify deprecated or removed components.
-* Learn about upcoming enhancements or optimizations.
-* Plan migration or upgrade steps accordingly.
+* 🧾 **Track changes** introduced in each version
+* ⚠️ **Identify deprecated or removed components**
+* 🚀 **Learn about upcoming enhancements** or optimizations
+* 🔄 **Plan migration or upgrade steps** accordingly
 
 #### 📚 Next Pages
 

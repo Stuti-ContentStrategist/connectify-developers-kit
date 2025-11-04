@@ -1,6 +1,7 @@
 # ⚡ Performance Tips
 
-Optimizing performance ensures that your Connectify integrations run efficiently, even at scale.\
+Optimizing performance ensures that your Connectify integrations run efficiently, even at scale.
+
 This section highlights simple yet powerful ways to reduce latency, improve throughput, and make the most of SDK resources.
 
 ***
@@ -50,4 +51,4 @@ Store frequently used data (like device configurations or status lists) locally 
 
 #### 📚 Next Page
 
-👉 📦 Caching Strategies
+👉 [📦 Caching Strategies](caching-strategies.md)

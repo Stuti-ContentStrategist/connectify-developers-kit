@@ -6,10 +6,10 @@ It provides detailed information about every available endpoint, its parameters,
 
 With the Connectify APIs, you can:
 
-* Access and manage **devices, users, and automation rules**
-* Perform **CRUD operations** via **RESTful endpoints**
-* Handle **requests and responses** efficiently using supported SDK methods
-* **Monitor performance** through pagination and rate limit management
+* ⚙️ **Access and manage** devices, users, and automation rules
+* 🧾 **Perform CRUD operations** via RESTful endpoints
+* 🔄 **Handle requests and responses** efficiently using supported SDK methods
+* 📈 **Monitor performance** through pagination and rate limit management
 
 💡 **Tip:** Each endpoint follows a consistent structure for easy navigation and implementation. Examples are provided for multiple programming languages wherever applicable.
 
