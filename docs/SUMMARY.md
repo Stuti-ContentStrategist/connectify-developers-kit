@@ -114,3 +114,4 @@
 ***
 
 * [✍️ About the Author](about-the-author.md)
+* [💡 Disclaimer](disclaimer.md)

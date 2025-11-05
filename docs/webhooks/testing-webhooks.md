@@ -31,11 +31,11 @@ This helps validate how your endpoint processes payloads and verifies signatures
 
 ***
 
-#### 🧩 Tips for Effective Testing
+💡 **Tips**
 
-✅ Log both the **headers and body** for each webhook request (only in development).\
-✅ Validate **response codes** — Connectify expects a `2xx` response for successful delivery.\
-✅ Retry failed deliveries until they pass, ensuring **idempotency** in your webhook logic.
+* Log both the **headers and body** for each webhook request (only in development).
+* Validate **response codes** — Connectify expects a `2xx` response for successful delivery.
+* Retry failed deliveries until they pass, ensuring **idempotency** in your webhook logic.
 
 ***
 

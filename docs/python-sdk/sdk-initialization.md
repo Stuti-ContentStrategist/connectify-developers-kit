@@ -1,6 +1,6 @@
 # ⚙️ SDK Initialization
 
-After installing the **Connectify Developer’s Kit (CDK) Python SDK**, you’ll need to initialize it to begin interacting with the Connectify Platform.
+After installing the **Connectify Software Development Kit (SDK)** for Python, you’ll need to **initialize it to start interacting with the Connectify platform**.
 
 Initialization sets up authentication, establishes a connection, and prepares the SDK for making API calls.
 

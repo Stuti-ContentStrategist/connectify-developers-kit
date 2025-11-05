@@ -1,24 +1,40 @@
 # 📘 Overview
 
-Welcome to the **Connectify Developer’s Kit (CDK)** — your complete **Software Development Kit (SDK)** for integrating, automating, and extending the Connectify platform.
+Welcome to the **Connectify Software Development Kit (SDK)** — your complete toolkit for **integrating, automating, and extending** the Connectify platform.
 
 The **SDK** enables developers to:
 
-* 🌐 **Access Connectify’s APIs and automation services**
-* ⚙️ **Manage devices, triggers, and events programmatically**
-* 💻 **Integrate seamlessly with desktop, web, or mobile applications**
+* 🌐 **Access Connectify’s APIs** and automation services
+* ⚙️ **Manage devices, triggers, and events** programmatically
+* 💻 **Integrate seamlessly** with desktop, web, or mobile applications
 
-#### 💡 Why Use This SDK?
+***
 
-Instead of manually configuring API requests, this SDK provides:
+#### 💡 **Why Use This SDK?**
 
-* 🧩 Pre-built methods for authentication, configuration, and data handling
-* ⚙️ Simplified workflows for common tasks
-* 💬 Clear error messages and debugging support
+Instead of manually configuring API requests, the Connectify SDK provides:
 
-#### 🌍 Compatibility
+* 🧩 **Pre-built methods** for authentication, configuration, and data handling
+* ⚙️ **Simplified workflows** for common tasks
+* 💬 **Clear error messages** and debugging support
 
-This SDK supports:
+***
+
+#### 📘 **What You’ll Learn**
+
+In SDK documentation, you’ll learn how to:
+
+* ⚙️ **Set up your environment** and install the SDK
+* 🔑 **Authenticate and connect** with the Connectify platform
+* 🔄 **Integrate APIs and automate workflows**
+* 🧪 **Test, debug, and deploy** SDK-based solutions
+* 📈 **Optimize performance** and maintain SDK versions
+
+***
+
+#### 🌍 **Compatibility**
+
+The Connectify SDK supports:
 
 * 🐍 **Python**
 * ☕ **Java**

@@ -1,6 +1,6 @@
 # 🚫 Common Exceptions
 
-While using the Connectify Java SDK, you may encounter exceptions related to authentication, connectivity, or API responses. Understanding these exceptions helps you build robust, fault-tolerant applications.
+While using the **Connectify Java SDK**, you may encounter exceptions related to authentication, connectivity, or API responses. Understanding these exceptions helps you build robust, fault-tolerant applications.
 
 ***
 

@@ -79,11 +79,6 @@ Retries the request up to three times before stopping, allowing temporary networ
 
 ***
 
-✅ **You’re covered!**\
-You now know how to safely manage and debug errors while working with the Python SDK.
-
-***
-
 #### 📚 **Next Page**
 
 👉 [🧾 Logging & Debugging](logging-and-debugging.md)

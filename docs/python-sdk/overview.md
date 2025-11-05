@@ -12,16 +12,16 @@ It provides intuitive methods for making API calls, managing authentication, han
 * 🧱 **Provides strong data models** for clean, readable code
 * 🧠 Ideal for **quick scripting, automation**, and **backend integration**
 
-#### 📦 What You’ll Learn
+#### 📘 What You’ll Learn
 
 This section will guide you through:
 
-* 📦 **Installation (pip)** — Installing and setting up the SDK in your environment
-* ⚙️ **Initialization** — Authenticating and initializing the SDK client
-* 💬 **Example API Calls** — Making real-world Connectify API requests
-* ⏳ **Async Usage** — Implementing non-blocking API operations
-* 🚫 **Handling Exceptions** — Managing errors gracefully in your scripts
-* 🧾 **Logging & Debugging** — Tracking requests and troubleshooting efficiently
+* 📦 **Installing** and setting up the SDK in your environment
+* ⚙️ **Authenticating** and initializing the SDK client
+* 💬 **Making real-world** **Connectify API requests**
+* ⏳ **Implementing** non-blocking API operations
+* 🚫 **Managing errors** gracefully in your scripts
+* 🧾 **Tracking requests** and troubleshooting efficiently
 
 💡 **Tip:** The Python SDK is fully compatible with Python 3.8 and above. Always ensure your virtual environment is activated before installation.
 

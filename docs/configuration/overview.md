@@ -1,12 +1,14 @@
 # 📘 Overview
 
-The Configuration section explains how to set up and customize **Connectify Developer’s Kit (CDK)** for your development environment.
+The Configuration section explains how to set up and customize **Connectify Software Development Kit (SDK)** for your development environment.
 
-You’ll learn how to:
+#### 📘 What You’ll Learn
 
-* 🧱 **Configure** your system **environment variables**
-* ⚙️ **Initialize the SDK** for your preferred language
-* 🔐 Securely manage **API keys and secrets**
+In this section, you’ll learn how to:
+
+* 🧱 **Configure** your system environment variables
+* ⚙️ **Initialize** the SDK for your preferred language
+* 🔐 **Securely manage** API keys and secrets
 * 🧩 **Apply different configuration examples** for various use cases
 
 Each step ensures that your SDK runs smoothly and securely across different setups. Proper configuration is essential before making API calls or integrating CDK into your applications.

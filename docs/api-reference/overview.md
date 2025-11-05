@@ -2,9 +2,11 @@
 
 The **Connectify API Reference** serves as your complete guide to understanding and using the **Connectify Software Development Kit (SDK)** APIs.
 
-It provides detailed information about every available endpoint, its parameters, responses, and error codes — enabling developers to build, test, and optimize integrations confidently.
+It provides detailed information about every available endpoint — including parameters, response formats, and error codes — enabling developers to **build, test, and optimize** their integrations with confidence.
 
-With the Connectify APIs, you can:
+#### 📘 **What You’ll Learn**
+
+In this section, you’ll learn how to:
 
 * ⚙️ **Access and manage** devices, users, and automation rules
 * 🧾 **Perform CRUD operations** via RESTful endpoints

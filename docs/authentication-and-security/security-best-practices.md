@@ -80,14 +80,7 @@ Always request only the access you need.
 * 🧩 Define granular roles and permissions within your app.
 * 🧠 Review granted scopes periodically.
 
-***
 
-#### ✅ Summary
-
-By following these security best practices, you safeguard both your users and your Connectify integrations.\
-Security isn’t a one-time setup — it’s an ongoing process.
-
-Keep your SDK environment clean, your credentials secret, and your connections encrypted 🔐
 
 ***
 

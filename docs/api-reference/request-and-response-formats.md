@@ -2,7 +2,7 @@
 
 All **Connectify API** requests and responses follow a **RESTful JSON** format to ensure consistency, readability, and ease of integration across languages and platforms.
 
-This section outlines how to structure your requests and interpret responses when communicating with the Connectify Developer’s Kit (CDK).
+This section outlines how to structure your requests and interpret responses when communicating with the **Connectify Software Development Kit (SDK)**.
 
 ***
 

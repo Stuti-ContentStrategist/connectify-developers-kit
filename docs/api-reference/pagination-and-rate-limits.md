@@ -1,6 +1,6 @@
 # ⏱️ Pagination & Rate Limits
 
-To ensure efficient data retrieval and maintain API performance, the **Connectify Developer’s Kit (CDK)** implements **pagination** for large datasets and **rate limiting** to prevent excessive requests.
+To ensure efficient data retrieval and maintain API performance, the **Connectify Software Development Kit (SDK)** implements **pagination** for large datasets and **rate limiting** to prevent excessive requests.
 
 Understanding and handling both correctly ensures smoother, faster, and more reliable integrations.
 

@@ -74,11 +74,6 @@ Executes multiple API calls in parallel — reducing overall wait time significa
 
 ***
 
-✅ **You’re all set!**\
-Your SDK can now handle multiple operations concurrently — perfect for responsive apps and real-time systems.
-
-***
-
 #### 📚 **Next Page**
 
 👉 [🚫 Handling Exceptions](handling-exceptions.md)

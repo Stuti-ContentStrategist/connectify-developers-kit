@@ -1,6 +1,6 @@
 # 🔑 OAuth 2.0 Setup
 
-The **Connectify Developer’s Kit (CDK)** uses **OAuth 2.0** to provide secure, token-based access to its APIs. This ensures that only authorized applications can interact with your Connectify account and resources.
+The **Connectify Software Development Kit (SDK)** uses **OAuth 2.0** to provide secure, token-based access to its APIs. This ensures that only authorized applications can interact with your Connectify account and resources.
 
 ***
 
@@ -110,13 +110,6 @@ print("Access Token:", token)
 * Save tokens in an encrypted storage or secure database.
 * Never expose access tokens in client-side code.
 * Use refresh tokens to renew access automatically (covered in the next section).
-
-***
-
-#### ✅ Summary
-
-You’ve now set up OAuth 2.0 authentication for your Connectify SDK integration.\
-Your app can securely obtain and use access tokens to interact with Connectify’s APIs on behalf of users.
 
 ***
 

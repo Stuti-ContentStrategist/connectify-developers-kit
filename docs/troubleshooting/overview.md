@@ -4,7 +4,9 @@ Even with proper configuration, developers may occasionally face issues while in
 
 This section provides quick assistance through **frequently asked questions**, an **error reference table**, and official **support channels**.
 
-This section helps you:
+#### 📘 **What You’ll Learn**
+
+In this section, you’ll learn how to:
 
 * 🐞 **Identify common SDK-related problems**
 * ⚠️ **Understand error messages** and their causes

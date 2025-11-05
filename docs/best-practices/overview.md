@@ -1,10 +1,12 @@
 # 📘 Overview
 
-The **Best Practices** section helps you get the most out of the Connectify Developer’s Kit (CDK).
+The **Best Practices** section helps you get the most out of the **Connectify Software Development Kit (SDK)**.
 
 It outlines proven strategies to optimize performance, ensure scalability, and maintain stability across your projects.
 
-By following these guidelines, developers can:
+#### 📘 **What You’ll Learn**
+
+In this section, you’ll learn how to:
 
 * 🚀 **Improve SDK execution speed** and reduce response latency
 * 🧠 **Use smart caching techniques** to minimize repetitive API calls
@@ -22,7 +24,7 @@ Each topic offers practical insights and examples designed to make your Connecti
 * 🪵 **Error Logging** — Capture, analyze, and resolve issues effectively.
 * 🧩 **Versioning** — Manage updates and maintain backward compatibility.
 
-💡 _Tip:_ Implementing these practices early in development saves time during scaling, deployment, and debugging.
+💡 Tip: Implementing these practices early in development saves time during scaling, deployment, and debugging.
 
 ***
 

@@ -2,7 +2,9 @@
 
 The **Connectify SDK** can be easily integrated into your web applications to enable real-time device control, data exchange, and event automation directly from the browser or backend services.
 
-This **section** walks you through how to:
+#### 📘 **What You’ll Learn**
+
+In this section, you’ll learn how to:
 
 * ⚙️ **Initialize the SDK** in both frontend (browser) and backend (Node.js) environments
 * 🔐 **Authenticate users** and manage API keys securely

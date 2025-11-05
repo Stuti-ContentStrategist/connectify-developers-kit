@@ -83,11 +83,6 @@ pgsql
 
 ***
 
-✅ **You’re ready to debug like a pro!**\
-With proper logging in place, you can easily monitor SDK behavior, diagnose issues, and maintain stable integrations.
-
-***
-
 #### 📚 **Next Page**
 
 👉 [☕ Java SDK](broken-reference)

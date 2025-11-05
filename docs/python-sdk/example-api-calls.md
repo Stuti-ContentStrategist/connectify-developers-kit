@@ -1,6 +1,8 @@
 # 💬 Example API Calls
 
-Once your **Connectify Software Development Kit (SDK)** is initialized, you can begin making API calls to interact with devices, automations, and other Connectify resources. This section shows simple examples of how to perform basic operations using the Python SDK.
+Once your **Connectify Software Development Kit (SDK)** is initialized, you can begin making API calls to interact with devices, automations, and other Connectify resources.&#x20;
+
+This section shows simple examples of how to perform basic operations using the Python SDK.
 
 ***
 
@@ -89,11 +91,6 @@ Demonstrates catching and logging SDK or API-level errors gracefully.
 ***
 
 💡 **Tip:** Use the **sandbox environment** for testing your API calls before deploying them to production.
-
-***
-
-✅ **You’re ready to start building!**\
-You’ve now seen how to use the SDK to make real API calls. Next, you’ll learn how to handle these calls asynchronously for faster and non-blocking performance.
 
 ***
 

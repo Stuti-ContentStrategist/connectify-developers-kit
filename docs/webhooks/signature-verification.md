@@ -66,11 +66,11 @@ const verifySignature = (req, secret) => {
 
 ***
 
-#### 🧠 Tips for Secure Implementation
+💡 **Tips**
 
-✅ Always use **timing-safe comparison** to prevent timing attacks.\
-✅ Store webhook secrets securely (e.g., in environment variables).\
-✅ Rotate webhook secrets periodically for enhanced protection.
+* &#x20;Always use **timing-safe comparison** to prevent timing attacks.&#x20;
+* Store webhook secrets securely (e.g., in environment variables).
+* Rotate webhook secrets periodically for enhanced protection.
 
 ***
 

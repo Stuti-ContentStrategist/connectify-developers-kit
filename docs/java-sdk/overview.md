@@ -19,6 +19,16 @@ Use the Java SDK when you’re:
 * **Integrating Connectify features** into enterprise applications
 * **Developing plugins or tools** that require reliable, long-running background tasks
 
+#### 📘 **What You’ll Learn**
+
+In this section, you’ll learn how to:
+
+* ⚙️ **Set up the Connectify Java SDK** in your project using Maven or Gradle
+* 🔑 **Authenticate your application** and manage API tokens securely
+* 🔄 **Handle events** to listen, trigger, and automate Connectify workflows
+* 🧩 **Integrate** **SDK features** into your existing Java applications or frameworks
+* 🧪 **Test and verify** **successful integration** with the Connectify platform
+
 ***
 
 #### 📚 Next Pages

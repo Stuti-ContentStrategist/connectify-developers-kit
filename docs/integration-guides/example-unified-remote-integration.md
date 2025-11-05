@@ -6,9 +6,9 @@ It combines the concepts you’ve already learned — **API calls, authenticatio
 
 ***
 
-#### 🎯 Objective
+#### 📘 **What You’ll Learn**
 
-This **section** shows how developers can use the **Connectify SDK** to:
+In this section, you’ll learn how to:
 
 * 🔐 **Authenticate** with their Connectify account
 * ⚙️ **Register devices** through Unified Remote

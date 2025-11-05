@@ -1,8 +1,10 @@
 # 📘 Overview
 
-The **Integration Guides** section explains how to connect and use the Connectify SDK across different environments and workflows. Each guide provides clear, step-by-step instructions, along with tested code samples and best practices to ensure seamless integration with your applications.
+The **Integration Guides** section explains how to connect and use the **Connectify SDK** across different environments and workflows. Each guide provides clear, step-by-step instructions, along with tested code samples and best practices to ensure seamless integration with your applications.
 
-You’ll learn how to:
+#### 📘 **What You’ll Learn**
+
+In this section, you’ll learn how to:
 
 * 🌐 **Connect the SDK with web applications** to enable direct browser or frontend-based integrations.
 * 🔧 **Use the SDK in CI/CD pipelines** to automate testing, deployment, and monitoring.

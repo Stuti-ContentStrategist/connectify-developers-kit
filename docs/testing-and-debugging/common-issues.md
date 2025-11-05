@@ -1,6 +1,6 @@
 # ❗ Common Issues
 
-Even with a smooth setup, developers may encounter occasional issues while using the Connectify SDK.&#x20;
+Even with a smooth setup, developers may encounter occasional issues while using the **Connectify SDK.**&#x20;
 
 This section highlights frequent problems and provides practical steps to identify and resolve them quickly.
 

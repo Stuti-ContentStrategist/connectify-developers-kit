@@ -4,12 +4,14 @@
 
 They allow you to receive instant notifications whenever specific events occur — such as device updates, automation triggers, or user actions — without continuously polling the API.
 
-Using webhook helps you:
+#### 📘 **What You’ll Learn**
 
-* 🔔 **React instantly** to system or user events
-* ⚡ **Automate workflows** based on triggers
-* 🧩 **Integrate Connectify seamlessly** with external systems
-* 📈 **Reduce unnecessary API calls** and improve efficiency
+In this section, you’ll learn how to:
+
+* 🔔 **React instantly** to system or user events using webhooks
+* ⚡ **Automate workflows** based on specific triggers
+* 🧩 **Integrate Connectify** seamlessly with external systems and services
+* 📈 **Reduce unnecessary API calls** and improve overall efficiency
 
 ***
 

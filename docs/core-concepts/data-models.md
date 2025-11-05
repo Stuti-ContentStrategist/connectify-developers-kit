@@ -1,6 +1,6 @@
 # 🧬 Data Models
 
-The **Data Models** in the **Connectify Developer’s Kit (CDK)** define how information is structured, transmitted, and interpreted between your application and the Connectify Platform.
+The **Data Models** in the **Connectify Software Development Kit (SDK)** define how information is structured, transmitted, and interpreted between your application and the Connectify Platform.
 
 They serve as blueprints for requests, responses, and entities, ensuring consistency and reliability across all SDK operations.
 

@@ -1,6 +1,6 @@
 # 📦 Installation (Maven/Gradle)
 
-You can install the **Connectify Java SDK** in your project using your preferred build tool — **Maven** or **Gradle**.
+You can install the **Connectify Software Development Kit (SDK)** **for  Java** in your project using your preferred build tool — **Maven** or **Gradle**.
 
 Make sure your environment meets the [System Requirements](../getting-started/system-requirements.md) before proceeding.
 

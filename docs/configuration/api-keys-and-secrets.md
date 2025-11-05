@@ -1,6 +1,6 @@
 # 🔐 API Keys & Secrets
 
-The **Connectify Developer’s Kit (CDK)** uses API keys and secrets to authenticate your application and authorize API requests. These credentials ensure that your integrations communicate securely with the Connectify platform.
+The **Connectify Software Development Kit (SDK)** uses API keys and secrets to authenticate your application and authorize API requests. These credentials ensure that your integrations communicate securely with the Connectify platform.
 
 #### 🧾 Understanding Your Credentials
 

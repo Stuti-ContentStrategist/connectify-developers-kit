@@ -1,6 +1,6 @@
 # 🕵️ Debugging Techniques
 
-Effective debugging helps you trace, isolate, and fix issues quickly when working with the Connectify SDK.
+Effective debugging helps you trace, isolate, and fix issues quickly when working with the **Connectify SDK.**
 
 This section covers best practices, recommended tools, and techniques to make troubleshooting faster and more reliable.
 
