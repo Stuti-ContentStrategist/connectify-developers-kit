@@ -1,8 +1,8 @@
 # 🔑 First API Call
 
-Once **this SDK** is installed, make your first API call to confirm everything is working.
+After installing and setting up **the Connectify Software Development Kit (SDK)**, you’re ready to make your first API call. This simple example demonstrates how to authenticate and fetch basic account details using your API key.
 
-#### 🐍 Python
+#### 🐍 Python Example
 
 <pre class="language-python"><code class="lang-python"><strong>python
 </strong><strong>
@@ -13,7 +13,7 @@ print(response)
 
 </code></pre>
 
-**☕ Java**
+#### **☕ Java** Example
 
 ```java
 java
@@ -28,7 +28,7 @@ public class Main {
 }
 ```
 
-**⚡ JavaScript**
+#### **⚡ JavaScript** Example
 
 <pre class="language-javascript"><code class="lang-javascript"><strong>javascript
 </strong><strong>
@@ -38,7 +38,7 @@ const sdk = new Connectify({ apiKey: "YOUR_API_KEY" });
 sdk.status().then(console.log);
 </code></pre>
 
-✅ **Expected Output:**
+#### ✅ **Expected Output:**
 
 ```json
 json
@@ -50,7 +50,7 @@ json
 }
 ```
 
-💡 **Tip:** If the connection fails, check your API key, network access, and firewall settings.
+💡 **Tip:** If you receive an authentication error, double-check that your API key is active and correctly stored in your environment variables.
 
 ***
 

@@ -6,7 +6,7 @@ The **Connectify Software Development Kit (SDK)** uses API keys and secrets to a
 
 * **API Key:** Identifies your application when making API calls.
 * **API Secret:** Verifies the authenticity of your requests. Keep it strictly confidential.
-* **Environment:** Specifies whether you’re using the `sandbox` (test) or `production` (live) environment.
+* **Environment:** Indicates the target environment (`sandbox` for testing, `production` for live).
 
 Example configuration:
 

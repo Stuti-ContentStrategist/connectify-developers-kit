@@ -1,6 +1,6 @@
 # 🧱 Environment Setup
 
-Before initializing the **Connectify Software Development Kit (SDK)**, you need to set up your local environment properly. This ensures that all SDK components, dependencies, and configurations work seamlessly across different platforms.
+Before initializing **the Connectify Software Development Kit (SDK)**, ensure that your environment variables are properly configured. These settings allow the SDK to authenticate and communicate securely with the Connectify Platform.
 
 #### 🖥️ System Preparation
 

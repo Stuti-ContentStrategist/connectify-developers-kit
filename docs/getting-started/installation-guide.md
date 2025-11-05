@@ -64,6 +64,10 @@ import Connectify from "connectify-sdk";
 
 ***
 
+Once installed, you’re ready to explore the folder structure and start configuring your SDK environment.
+
+***
+
 #### 📚 Next Page
 
 👉 [📂 Folder Structure](folder-structure.md)[\

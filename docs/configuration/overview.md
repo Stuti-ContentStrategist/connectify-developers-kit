@@ -1,6 +1,6 @@
 # 📘 Overview
 
-The Configuration section explains how to set up and customize **Connectify Software Development Kit (SDK)** for your development environment.
+The **Configuration** section explains how to set up and customize **Connectify Software Development Kit (SDK)** for your development environment.
 
 #### 📘 What You’ll Learn
 

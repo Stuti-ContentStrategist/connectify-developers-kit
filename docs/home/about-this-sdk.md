@@ -1,6 +1,6 @@
 # ℹ️ About This SDK
 
-This SDK provides a standardized, developer-friendly way to interact with Connectify services using clean, well-structured code.
+**The Connectify SDK** provides a standardized, developer-friendly way to interact with Connectify services through clean, well-structured code.
 
 #### 🔧 Core Design Principles
 
@@ -11,18 +11,18 @@ This SDK provides a standardized, developer-friendly way to interact with Connec
 
 #### 🧱 Architecture at a Glance
 
-This SDK is modular — every component (authentication, API requests, responses, and logging) is independent yet interconnected. This structure allows developers to:
+The SDK follows a modular architecture — each component (authentication, API requests, responses, and logging) is independent yet seamlessly interconnected. This structure allows developers to:
 
 * Customize workflows without breaking core functionality
 * Replace or extend modules (e.g., custom auth or logging)
-* Maintain clarity in complex integrations
+* Maintain clarity even in complex integrations.
 
 #### 🧰 What You Get
 
-* Detailed API reference
-* Working code samples
-* Configuration templates
-* Built-in error handling utilities
+* 🧾 Detailed API reference
+* 💻 Working code samples
+* ⚙️ Configuration templates
+* ❗ Built-in error handling utilities
 
 ***
 

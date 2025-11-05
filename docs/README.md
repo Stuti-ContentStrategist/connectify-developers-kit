@@ -1,6 +1,6 @@
 # 📘 Overview
 
-Welcome to the **Connectify Software Development Kit (SDK)** — your complete toolkit for **integrating, automating, and extending** the Connectify platform.
+Welcome to the **Connectify Software Development Kit (SDK)** — your complete toolkit for **integrating, automating, and extending the features** of the Connectify platform.
 
 The **SDK** enables developers to:
 
@@ -22,7 +22,7 @@ Instead of manually configuring API requests, the Connectify SDK provides:
 
 #### 📘 **What You’ll Learn**
 
-In SDK documentation, you’ll learn how to:
+In this documentation, you’ll learn how to:
 
 * ⚙️ **Set up your environment** and install the SDK
 * 🔑 **Authenticate and connect** with the Connectify platform
@@ -40,7 +40,7 @@ The Connectify SDK supports:
 * ☕ **Java**
 * ⚡ **JavaScript (Node.js & Browser)**
 
-Each version offers consistent structure, naming conventions, and examples for a unified developer experience.
+Each SDK version follows a consistent structure, naming conventions, and examples for a unified developer experience.
 
 ***
 
