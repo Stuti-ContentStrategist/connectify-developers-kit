@@ -74,7 +74,7 @@ After setup, verify that your SDK is recognized:
     ```bash
     bash
 
-    node -e "require('connectify-sdk'); console.log('CDK loaded successfully');"
+    node -e "require('connectify-sdk'); console.log('SDK loaded successfully');"
     ```
 
 If the commands return a valid version number or confirmation message, your environment setup is complete 🎉
