@@ -28,4 +28,9 @@ As the author of the **Connectify Developer’s Kit SDK documentation**, Stuti h
 
 #### 📫 Connect with the Author
 
-✉️ **Email:** stutisanghvi7@gmail.com
+* 💼 **LinkedIn:** linkedin.com/in/stuti-sanghvi
+* 💌 **Email:** stutisanghvi@example.com
+* 🌐 **Notion Profile**:[ Stuti Sanghvi](https://www.notion.so/Stuti-Sanghvi-Content-Strategist-Technical-Writer-29cf34655bbd809589e7d360b8e98ed1?source=copy_link)
+
+
+
