@@ -69,14 +69,26 @@
     window.$docsify = {
       name: 'Connectify Developer Kit',
       repo: 'https://github.com/Stuti-ContentStrategist/connectify-developers-kit',
+
+      /* KEY FIX: load homepage */
+      homepage: 'docs/README.md',
+
+      /* Enable Sidebar */
       loadSidebar: true,
+
+      /* Navigation depth */
       subMaxLevel: 3,
       maxLevel: 4,
+
+      /* Smooth experience */
       auto2top: true,
+
+      /* Theme */
       themeColor: '#1992d4'
     };
   </script>
 
+  <!-- Docsify Core -->
   <script src="https://cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0"></script>
 </body>
