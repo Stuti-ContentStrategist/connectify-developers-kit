@@ -1,24 +1,83 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Connectify Developer Kit Documentation</title>
-  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+  <meta charset="UTF-8" />
+  <title>Connectify Developer Kit</title>
+
+  <!-- Docsify Theme -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css" />
+
+  <style>
+    :root {
+      /* Color Palette */
+      --theme-color: #1992d4;          /* Primary teal-blue */
+      --sidebar-background: #0f1f2f;   /* Dark navy sidebar */
+      --sidebar-border-color: #0f1f2f;
+      --sidebar-width: 270px;
+      --base-font-size: 16px;
+
+      /* Text Colors */
+      --sidebar-color: #e4eff5;
+      --sidebar-active-color: #ffffff;
+      --sidebar-nav-link-color: #d0e2eb;
+
+      /* Link Colors */
+      --link-color: #1992d4;
+      --link-hover-color: #1273a6;
+    }
+
+    /* Sidebar Styling */
+    .sidebar {
+      background: var(--sidebar-background);
+      color: var(--sidebar-color);
+      padding-top: 20px;
+    }
+    .sidebar-nav a {
+      color: var(--sidebar-nav-link-color);
+      font-size: 15px;
+      padding: 6px 12px;
+    }
+    .sidebar-nav .active > a {
+      color: var(--sidebar-active-color);
+      background: rgba(255, 255, 255, 0.1);
+      border-radius: 6px;
+    }
+
+    /* Content Area */
+    .markdown-section {
+      max-width: 900px;
+      padding: 30px;
+    }
+
+    /* Heading Styling */
+    h1, h2, h3 {
+      color: #0f2c40;
+      font-weight: 600;
+    }
+
+    /* Link Hover Style */
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
 </head>
+
 <body>
   <div id="app"></div>
 
   <script>
     window.$docsify = {
-  name: 'Connectify Developer Kit',
-  repo: 'https://github.com/Stuti-ContentStrategist/connectify-developers-kit',
-  loadSidebar: true,
-  subMaxLevel: 3,
-  maxLevel: 4
-}
-
+      name: 'Connectify Developer Kit',
+      repo: 'https://github.com/Stuti-ContentStrategist/connectify-developers-kit',
+      loadSidebar: true,
+      subMaxLevel: 3,
+      maxLevel: 4,
+      auto2top: true,
+      themeColor: '#1992d4'
+    };
   </script>
 
-  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0"></script>
 </body>
 </html>
